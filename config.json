@@ -11,8 +11,7 @@
   },
   "github": {
     "owner": "pureal",
-    "repo": "blog",
-    "token": "process.env.GITHUB_TOKEN"
+    "repo": "blog"
   },
   "social": {
     "github": "https://github.com/pureal"
