@@ -1,21 +1,21 @@
 {
   "site": {
-    "title": "Looks Blog",
+    "title": "Personal Blog",  
     "description": "A personal blog powered by GitHub Issues",
-    "url": "https://blog-test.778801.xyz",
-    "author": "Master08s",
+    "url": "https://pureal.github.io/blog",
+    "author": "pureal",
     "avatar": "https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/186132306?v=4",
     "favicon": "https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/186132306?v=4",
     "language": "zh-CN",
-    "date":"2025-05-31"
+    "date":"2025-10-05"
   },
   "github": {
-    "owner": "Master08s",
-    "repo": "looks-blog",
+    "owner": "pureal",
+    "repo": "blog",
     "token": "process.env.GITHUB_TOKEN"
   },
   "social": {
-    "github": "https://github.com/Master08s"
+    "github": "https://github.com/pureal"
   },
   "build": {
     "postsPerPage": 10,
@@ -40,7 +40,7 @@
     "description": "SEO 优化配置。keywords 为网站关键词数组，generateSitemap 控制是否生成 sitemap.xml"
   },
   "comments": {
-    "enabled": true,
+    "enabled": false,
     "provider": "giscus",
     "giscus": {
       "repo": "Master08s/looks-blog",
